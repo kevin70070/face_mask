@@ -18,3 +18,14 @@ tensorflow-gpu==2.8
 ## 人臉體取效果
 你可以在example.ipynb 中看到一個簡單的使用方法，使用我們已經訓練好的模型
 ![image](https://user-images.githubusercontent.com/29139225/209790258-af85c01f-1e35-41c6-a994-ff49bf5881fc.png)
+
+## 人臉體取應用
+
+我們已經實現以下幾種人臉濾鏡
+![image](https://user-images.githubusercontent.com/29139225/209791140-62418b91-036f-437d-a900-99bb2163f1f4.png)
+![image](https://user-images.githubusercontent.com/29139225/209791169-2c7cb943-fcdb-4dbc-8a8e-925a70664aac.png)
+
+甚至我們也結合CycleGAN 做了一個簡單的換臉示範，我們將在之後的工作中發布更詳細的工作流程
+
+https://user-images.githubusercontent.com/29139225/209793816-06612d13-5d6b-44b6-b0a5-fc86ddede410.mp4
+
