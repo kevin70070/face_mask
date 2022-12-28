@@ -9,7 +9,7 @@
 原始資料集包含了30000張 大小為 512 * 512 的人臉及標記圖片，其中有9個類別包含了如皮膚、鼻子、眼睛、眉毛、耳朵、嘴巴、嘴唇、頭髮、帽子、眼鏡、耳環、項鍊、頸部和布。  
 你可以透過此連結找到原始CelebAMask_HQ 資料集 : http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebAMask_HQ.html  
 
-你也可以下載我們已經處理好的資料集，我們只用了其中的4類 : other,皮膚,眼睛,嘴巴 : 
+你也可以下載我們已經處理好的資料集，我們只用了其中的4類 : other,皮膚,眼睛,嘴巴 : https://drive.google.com/file/d/1wZlYMhv756hOz2N8r6Q0WCXXQSYLZJDk/view?usp=sharing
 
 ## 環境
 python==3.9  
